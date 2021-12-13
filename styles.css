@@ -62,6 +62,12 @@ h2 {
   font-weight: 300;
 }
 
+article {
+  width: 1146px;
+  font-size: 16;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 19.2px;
+}
 p {
   width: 1146px;
   font-size: 16;
